@@ -16,7 +16,7 @@ iconv -f cp1256 -t utf8 -o hadith-musnad-ahmad-ibn-hanbal.utf8.csv  hadith-musna
 iconv -f cp1256 -t utf8 -o hadith-sahih-bukhari.utf8.csv            hadith-sahih-bukhari.csv                            
 iconv -f cp1256 -t utf8 -o hadith-sahih-muslim.utf8.csv             hadith-sahih-muslim.csv                            
 iconv -f cp1256 -t utf8 -o hadith-sunan-abu-dawud.utf8.csv          hadith-sunan-abu-dawud.csv                            
-iconv -f cp1256 -t utf8 -o hadith-sunan-al-darami.utf8.csv          hadith-sunan-al-darami.csv                            
+iconv -f cp1256 -t utf8 -o hadith-sunan-al-darimi.utf8.csv          hadith-sunan-al-darimi.csv                            
 iconv -f cp1256 -t utf8 -o hadith-sunan-al-nasai.utf8.csv           hadith-sunan-al-nasai.csv                            
 iconv -f cp1256 -t utf8 -o hadith-sunan-al-tirmidhi.utf8.csv        hadith-sunan-al-tirmidhi.csv                            
 iconv -f cp1256 -t utf8 -o hadith-sunan-ibn-maja.utf8.csv           hadith-sunan-ibn-maja.csv                            
